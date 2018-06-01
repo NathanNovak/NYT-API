@@ -1,0 +1,20 @@
+.header{
+    background-color: blue;
+    color:white;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif; 
+}
+.button{
+    margin: 10px 10px 10px 10px;
+}
+.top{
+    margin: 50px 0px 0px 0px;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.inputs{
+    margin: 25px 0px 0px 0px;
+}
